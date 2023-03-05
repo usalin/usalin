@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Uğur</h1>
 
-- 💬 Open to collaboration on **Angular** projects
+- 💬 Open to collaboration on **Angular | Ionic | NestJS** projects
 
 - 📫 You can reach me via **ugursalin@gmail.com**
 
